@@ -1,1 +1,1 @@
-Thiks contains C functions nested loops
+This contains C functions nested loops
