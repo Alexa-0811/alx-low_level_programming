@@ -1,1 +1,1 @@
-This contains C functions nested loops
+This contains functions and nested loops task
